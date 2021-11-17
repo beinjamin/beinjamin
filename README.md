@@ -20,7 +20,7 @@ fun getBio() : Map<String, String> {
 	"- 👯 Je cherche à collaborer...            "Avec d'autre Informaticiens sur diverse autre technologie",
 	"- 🤔 Je cherche de l'aide pour"            "Tout ce qui concerne ce que j'apprends actuellement 😅.",
 	"- 💬 Posez-moi les Questions sur"          "Développement d'applications web&mobiles laravel, Android, Java, Flutter, Dart.",
-	"- 📫 Comment me joindre"                   "jauresbeinjamin@gmail.com.com"
+	"- 📫 Comment me joindre"                   "jauresbeinjamin@gmail.com.com",
    )
 }
 ```
