@@ -79,5 +79,11 @@ fun getBio() : Map<String, String> {
 
 <p align="center"><img src="https://tenor.com/view/silicon-valley-gif-5518465.gif" alt="" height="300" width="500"></p>
 
+> GitHub Activity Graph
+
+<!-- https://github.com/beinjamin/github-readme-activity-graph -->
+<a href="https://github.com/beinjamin/beinjamin"><img alt="beinjamin's activity graph" src="https://activity-graph.herokuapp.com/graph?username=beinjamin&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+
+<br />
 ----
 
