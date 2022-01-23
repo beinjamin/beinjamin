@@ -2,28 +2,28 @@
 
 <h2 align="center">À propos de moi</h2>
 
-```kotlin
-package main
+Bonjour les amis.
 
-fun main(args: Array<String>) {
-    val map = getBio()
-    for ((key, value) in map) {
-        println("$key : $value")
-    }
-}
+Je suis Jaures Beinjamin , développeur Web Full-stack Junior et étudiant à Freecodecamp & Linkedin Learning.
 
-fun getBio() : Map<String, String> {
-    return mapOf(
-	"- ⚡ Biographie rapide"                    "Développeur d' application web & mobile passionné avec 1 ans d'expérience dans le développement de solutions Web complexes.",
-	"- 🔭 Je travaille actuellement pour"       "Aiguiser mes compétences en conception d'application web&mobile, en architecture et en résolution des problèmes. ",
-	"- 🌱 j'apprends actuellement"              "Laravel,Spring,Angular,React,Dart, Python,Php, Java.",
-	"- 👯 Je cherche à collaborer...            "Avec d'autre Informaticiens sur diverse autre technologie",
-	"- 🤔 Je cherche de l'aide pour"            "Tout ce qui concerne ce que j'apprends actuellement 😅.",
-	"- 💬 Posez-moi les Questions sur"          "Développement d'applications web&mobiles laravel, Android, Java, Flutter, Dart.",
-	"- 📫 Comment me joindre"                   "jauresbeinjamin@gmail.com.com",
-   )
-}
-```
+J'adore coder, voyager et Jouer Jeux Video.
+
+Depuis plus de 1 ans, j'ai développé mes compétences techniques  en travaillant sur des projets Front et Back-end en utilisant Php, Laravel, Flutter, Dart et HTML/CSS ainsi que d'autres frameworks pour construire de vrais projets mondiaux grâce à la programmation en binôme.
+
+En même temps, j'ai développé et amélioré mes compétences professionnelles en tant que Coach dans le secteur du genie logiciel , en tant que membre actif de l'équipe, collaborateur et mentor. Cela m'a permis d'acquérir de l'expérience et d'avoir l'opportunité de travailler, de contribuer et d'apprendre à distance avec des programmeurs et des équipes du monde entier, faisant de moi un citoyen du monde.
+
+Front-End :  Angular, Bootstrap, HTML5, CSS3.
+Backend :  Laravel ,SpringBoot MySQL.
+Outils et méthodes : Git, GitHub, Gitlab.
+Développement mobile/Hybride : Flutter.  
+CMS: Wordpress
+Système d’exploitation : Ubuntu ,Windows .
+Professionnel : programmation en binôme à distance, travail d'équipe, mentorat
+
+
+
+Planifions un chat zoom | Meet ! Envoyez-moi un e-mail à jauresbeinjamin@gmail.com
+
 
 <h2 align="center">Vous pouvez me joindre sur: </h2>
 
