@@ -10,7 +10,7 @@ J'adore coder, voyager et Jouer Jeux Video.
 
 Depuis plus de 1 ans, j'ai développé mes compétences techniques  en travaillant sur des projets Front et Back-end en utilisant Php, Laravel, Flutter, Dart et HTML/CSS ainsi que d'autres frameworks pour construire de vrais projets mondiaux grâce à la programmation en binôme.
 
-En même temps, j'ai développé et amélioré mes compétences professionnelles en tant que Coach dans le secteur du genie logiciel , en tant que membre actif de l'équipe, collaborateur et mentor. Cela m'a permis d'acquérir de l'expérience et d'avoir l'opportunité de travailler, de contribuer et d'apprendre à distance avec des programmeurs et des équipes du monde entier, faisant de moi un citoyen du monde.
+En même temps, j'ai développé et amélioré mes compétences professionnelles en tant que Coach dans le secteur du genie logiciel , en tant que membre actif de l'équipe, collaborateur et mentor. Cela m'a permis d'acquérir de l'expérience et d'avoir l'opportunité de faire des stages, de contribuer et d'apprendre à distance avec des programmeurs et des équipes du monde entier, faisant de moi un citoyen du monde.
 
 Front-End :  Angular, Bootstrap, HTML5, CSS3.
 Backend :  Laravel ,SpringBoot MySQL.
