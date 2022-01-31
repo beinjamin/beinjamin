@@ -2,30 +2,31 @@
 
 <h2 align="center">À propos de moi</h2>
 
-Bonjour les amis.
+Hello friends.
 
-Je suis Jaures Beinjamin , développeur Web Full-stack Junior et étudiant à Freecodecamp & Linkedin Learning.
+I'm Jaures Beinjamin, Junior Full-stack Web Developer and student at Freecodecamp & Linkedin Learning.
 
-J'adore coder, voyager et Jouer Jeux Video.
+I love coding, traveling and playing video games.
 
-Depuis plus de 1 ans, j'ai développé mes compétences techniques  en travaillant sur des projets Front et Back-end en utilisant Php, Laravel, Flutter, Dart et HTML/CSS ainsi que d'autres frameworks pour construire de vrais projets mondiaux grâce à la programmation en binôme.
+For more than 1 years, I developed my technical skills by working on Front and Back-end projects using Php, Laravel, Flutter, Dart and HTML/CSS as well as other frameworks to build real global projects thanks to pair programming.
 
-En même temps, j'ai développé et amélioré mes compétences professionnelles en tant que Coach dans le secteur du genie logiciel , en tant que membre actif de l'équipe, collaborateur et mentor. Cela m'a permis d'acquérir de l'expérience et d'avoir l'opportunité de faire des stages, de contribuer et d'apprendre à distance avec des programmeurs et des équipes du monde entier, faisant de moi un citoyen du monde.
+At the same time, I developed and improved my professional skills as a Coach in the software engineering sector, as an active team member, collaborator and mentor. It gave me the experience and the opportunity to intern, contribute and learn remotely with programmers and teams around the world, making me a global citizen.
 
-Front-End :  Angular, Bootstrap, HTML5, CSS3.
-Backend :  Laravel ,SpringBoot MySQL.
-Outils et méthodes : Git, GitHub, Gitlab.
-Développement mobile/Hybride : Flutter.  
-CMS: Wordpress
-Système d’exploitation : Ubuntu ,Windows .
-Professionnel : programmation en binôme à distance, travail d'équipe, mentorat
-
-
-
-Planifions un chat zoom | Meet ! Envoyez-moi un e-mail à jauresbeinjamin@gmail.com
+Front-End: Angular, Bootstrap, HTML5, CSS3.
+Backend: Laravel, SpringBoot MySQL.
+Tools and methods: Git, GitHub, Gitlab.
+Mobile/Hybrid Development: Flutter.
+CMS: WordPress
+Operating system: Ubuntu, Windows.
+Professional: remote pair programming, teamwork, mentoring
 
 
-<h2 align="center">Vous pouvez me joindre sur: </h2>
+
+Planning a zoom chat | Meet ! Email me at jauresbeinjamin@gmail.com
+
+
+
+<h2 align="center">You can reach me on: </h2>
 
 <p align="center">
 
