@@ -84,7 +84,9 @@ Planning a zoom chat | Meet ! Email me at jauresbeinjamin@gmail.com
 <h2 align="center">GitHub Activity Graph</h2>
 <!-- https://github.com/beinjamin/github-readme-activity-graph -->
 
-<a href="https://github.com/beinjamin"><img alt="beinjamin's activity graph" src="https://activity-graph.herokuapp.com/graph?username=beinjamin&bg_color=000000&color=ffffff&line=a51d2d&point=33d17a&area=true&hide_border=true" /></a>
+<a href="https://github.com/Beinjamin"><img alt="beinjamin's activity graph" src="https://activity-graph.herokuapp.com/graph?username=Beinjamin&bg_color=000000&color=ffffff&line=a51d2d&point=33d17a&area=true&hide_border=true" /></a>
+
+
 
 <br />
 
