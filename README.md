@@ -1,32 +1,9 @@
-# Salut !!!!!, 👋 Bienvenue 😊
-
-<h2 align="center">À propos de moi</h2>
-
-Hello friends.
-
-I'm Jaures Beinjamin, Junior Full-stack Web Developer and student at Freecodecamp & Linkedin Learning.
-
-I love coding, traveling and playing video games.
-
-For more than 1 years, I developed my technical skills by working on Front and Back-end projects using Php, Laravel, Flutter, Dart and HTML/CSS as well as other frameworks to build real global projects thanks to pair programming.
-
-At the same time, I developed and improved my professional skills as a Coach in the software engineering sector, as an active team member, collaborator and mentor. It gave me the experience and the opportunity to intern, contribute and learn remotely with programmers and teams around the world, making me a global citizen.
-
-Front-End: Angular, Bootstrap, HTML5, CSS3.
-Backend: Laravel, SpringBoot MySQL.
-Tools and methods: Git, GitHub, Gitlab.
-Mobile/Hybrid Development: Flutter.
-CMS: WordPress
-Operating system: Ubuntu, Windows.
-Professional: remote pair programming, teamwork, mentoring
-
-
-
-Planning a zoom chat | Meet ! Email me at jauresbeinjamin@gmail.com
-
-
-
-<h2 align="center">You can reach me on: </h2>
+<p align="center">
+  <a href="https://github.com/beinjamin"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Mobile%20Master;Gamer%20and%20Video%20GamesPC;BlockChain%20Developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
+<p align='center'>
+ <h1 align="center">
+  <h2 align="center">You can reach me on: </h2>
 
 <p align="center">
 
@@ -58,36 +35,68 @@ Planning a zoom chat | Meet ! Email me at jauresbeinjamin@gmail.com
     <img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="Jaures Beinjamin Fotsing Twitter Profile" height="30" width="30">
   </a>
 </p>
+</h1>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=beinjamin.beinjamin" />
+<img align="right" src="https://img.shields.io/github/followers/beinjamin?label=Follow&style=social" />
+<h1 align="center"></h1>
+<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=beinjamin&show_icons=true&theme=merko&count_private=true" />
+<img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beinjamin&count_private=true&langs_count=10&theme=tokyonight&layout=compact&hide=html,css" alt="beinjamin :: Top Langs" />
+<img height="150px" />
+<br>
+<br>
+<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
+<table>
+  <tr>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/angular-3-226070.png" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1-225993.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/jquery-7-1175152.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/typescript-1-1175078.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/php-99-1175127.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/codeigniter-5-1175246.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/laravel-2-1175146.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/yii-2-1175059.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/css3-11-1175239.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/sass-13-1175092.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/docker-13-1175230.png" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/mysql-4-226026.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/redis-6-1175105.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/python-20-1175115.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/django-13-1175187.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/java-22-225997.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/swift-21-1175088.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/android-245-1175273.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/xcode-3521822-2945239.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/c-57-1175191.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/c-4-226082.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/bootstrap-226077.png" width="200"></td>
+  </tr>
+</table>
 
-<h2 align="center">My stack :man_technologist:</h2>
+### When I work
+   <p align="center"><img src="https://tenor.com/view/silicon-valley-gif-5518465.gif" alt="" height="300" width="500"></p>
 
-<p align="center">Des outils que j'utilise au quotidien, ou avec lesquels j'ai utilisé ou travaillé (beaucoup ou un peu) par le passé</p>
-<p align="center">
-  <a href="https://stackshare.io/beinjamin/my-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="Jaures Beinjamin Fotsing :: StackShare" />
-  </a>
-</p>
-
-<h2 align="center">Statistiques Github </h2>
-
-<h4 align="center">Langage:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beinjamin&count_private=true&langs_count=10&theme=tokyonight&layout=compact&hide=html,css" alt="beinjamin :: Top Langs" /></p>
-
-<h4 align="center">Statistiques du profil: </h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=beinjamin&show_icons=true&theme=synthwave&count_private=true" alt="AnhellO :: Profile Stats" /></p>
-
-<p align="center"><img src="https://tenor.com/view/silicon-valley-gif-5518465.gif" alt="" height="300" width="500"></p>
+</table>
 
 
-<h2 align="center">GitHub Activity Graph</h2>
-<!-- https://github.com/beinjamin/github-readme-activity-graph -->
+<a href="https://github.com/beinjamin/beinjamin"><img alt="beinjamin's activity graph" src="https://activity-graph.herokuapp.com/graph?username=beinjamin&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 
-<a href="https://github.com/Beinjamin"><img alt="beinjamin's activity graph" src="https://activity-graph.herokuapp.com/graph?username=Beinjamin&bg_color=000000&color=ffffff&line=a51d2d&point=33d17a&area=true&hide_border=true" /></a>
-
-
-
-<br />
-
+#### I'm a Developer and IT Consultant I work with the goal of learning and solving problems digitally
 
