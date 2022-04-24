@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/beinjamin"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Mobile%20Master;Gamer%20and%20Video%20GamesPC;BlockChain%20Developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/beinjamin"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Mobile%20Developer;IT%20%20%20Consultant;Gamer%20and%20Video%20GamesPC;BlockChain%20Developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 <p align='center'>
  <h1 align="center">
@@ -87,7 +87,7 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/c-57-1175191.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/c-4-226082.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/bootstrap-226077.png" width="200"></td>
-    <td><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>  </td>
+    
   </tr>
    <tr>
     <td><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> </td>
