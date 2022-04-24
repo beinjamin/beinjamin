@@ -87,6 +87,13 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/c-57-1175191.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/c-4-226082.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/bootstrap-226077.png" width="200"></td>
+    <td><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>  </td>
+  </tr>
+   <tr>
+    <td><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> </td>
+  
+  
+    
   </tr>
 </table>
 
