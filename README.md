@@ -36,6 +36,19 @@
   </a>
 </p>
 </h1>
+
+<p align='center'>
+  <a href="https://t.me/devwebbackend">
+    <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>&nbsp;&nbsp;
+
+  <a href="mailto:jauresbeinjamin@gmail.com">
+    <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
+
+
+
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=beinjamin.beinjamin" />
 <img align="right" src="https://img.shields.io/github/followers/beinjamin?label=Follow&style=social" />
 <h1 align="center"></h1>
